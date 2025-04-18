@@ -1,0 +1,7 @@
+target:
+  chat:
+    provider: openai
+    config:
+      model: tinyllama
+      base_url: http://localhost:11434/v1
+      api_key: dummy-key
